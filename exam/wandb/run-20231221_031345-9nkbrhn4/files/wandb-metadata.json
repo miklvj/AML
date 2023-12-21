@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2023-12-21T02:13:52.085539",
+    "startedAt": "2023-12-21T02:13:45.083789",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "HYPEBEAST",
+    "username": "Lukas Schierbech",
+    "executable": "c:\\ProgramData\\anaconda3\\envs\\amlfall23\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.43043518066406,
+            "used": 178.72907257080078
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2080",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.923473358154297
+    }
+}

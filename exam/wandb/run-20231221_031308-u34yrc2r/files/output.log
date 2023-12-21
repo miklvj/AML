@@ -1,0 +1,16 @@
+TensorFlow Version: 2.9.1
+Num GPUs Available:  1
+Name: /physical_device:GPU:0   Type: GPU
+Model: "sequential_1"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ flatten_1 (Flatten)         (None, 784)               0
+ dense_2 (Dense)             (None, 4)                 3140
+ dense_3 (Dense)             (None, 10)                50
+=================================================================
+Total params: 3,190
+Trainable params: 3,190
+Non-trainable params: 0
+_________________________________________________________________
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
