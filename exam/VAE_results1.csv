@@ -1,0 +1,4 @@
+latent_dim,nb_layers,Regularization,batch_normalization,optimizer,variational_lower_bound
+25,[3],[None],[False],<keras.optimizers.optimizer_v2.adam.Adam object at 0x00000269C0699780>,"tf.Tensor(-16878.277, shape=(), dtype=float32)"
+25,[3],[None],[False],<keras.optimizers.optimizer_v2.adagrad.Adagrad object at 0x00000269C069A020>,"tf.Tensor(-17273.613, shape=(), dtype=float32)"
+25,[3],[None],[False],<keras.optimizers.optimizer_v2.rmsprop.RMSprop object at 0x00000269C069A530>,"tf.Tensor(-17339.06, shape=(), dtype=float32)"
